@@ -1,0 +1,232 @@
+﻿Species 1,Species 2,Dist,type
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},0.0000,intraspecific
+MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},0.0000,intraspecific
+MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},0.0000,intraspecific
+MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},0.0000,intraspecific
+MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},0.0000,intraspecific
+MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},0.0000,intraspecific
+MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},0.0000,intraspecific
+MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},0.0000,intraspecific
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},0.0018,intraspecific
+MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},0.0018,intraspecific
+OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},0.0018,intraspecific
+MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},0.0018,intraspecific
+OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},0.0018,intraspecific
+MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},0.0018,intraspecific
+OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},0.0018,intraspecific
+MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},0.0018,intraspecific
+OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},0.0018,intraspecific
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},0.0078,intraspecific
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},0.0484,intraspecific
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},0.0484,intraspecific
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},0.0502,intraspecific
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},0.0502,intraspecific
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},0.0735,intraspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},0.0735,intraspecific
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},0.0753,intraspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},0.0753,intraspecific
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},0.0753,intraspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},0.0753,intraspecific
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},0.0789,intraspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},0.0789,intraspecific
+AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},0.0841,interspecific
+AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},0.0867,intraspecific
+AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},0.0963,interspecific
+MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},GQ355374.1 Pristina aequiseta_{Pristina aequiseta},0.1004,interspecific
+MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},GQ355374.1 Pristina aequiseta_{Pristina aequiseta},0.1004,interspecific
+MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},GQ355374.1 Pristina aequiseta_{Pristina aequiseta},0.1004,interspecific
+MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},GQ355374.1 Pristina aequiseta_{Pristina aequiseta},0.1004,interspecific
+MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},GQ355374.1 Pristina aequiseta_{Pristina aequiseta},0.1022,interspecific
+OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},GQ355374.1 Pristina aequiseta_{Pristina aequiseta},0.1022,interspecific
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},0.1058,interspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},0.1058,interspecific
+MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},0.1093,interspecific
+MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},0.1093,interspecific
+MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},0.1093,interspecific
+MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},0.1093,interspecific
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},0.1093,interspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},0.1093,interspecific
+MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},0.1095,interspecific
+MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},0.1095,interspecific
+MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},0.1095,interspecific
+MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},0.1095,interspecific
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},GQ355374.1 Pristina aequiseta_{Pristina aequiseta},0.1111,intraspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},GQ355374.1 Pristina aequiseta_{Pristina aequiseta},0.1111,intraspecific
+MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},0.1111,interspecific
+OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},0.1111,interspecific
+MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},0.1113,interspecific
+OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},0.1113,interspecific
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},0.1129,interspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},0.1129,interspecific
+GQ355374.1 Pristina aequiseta_{Pristina aequiseta},AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},0.1144,interspecific
+GQ355374.1 Pristina aequiseta_{Pristina aequiseta},AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},0.1144,interspecific
+AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},0.1154,interspecific
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},0.1165,interspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},0.1165,interspecific
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},0.1165,interspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},0.1165,interspecific
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},0.1165,interspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},0.1165,interspecific
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},0.1165,interspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},0.1165,interspecific
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},GQ355374.1 Pristina aequiseta_{Pristina aequiseta},0.1165,intraspecific
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},0.1168,interspecific
+AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},0.1174,interspecific
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},GQ355374.1 Pristina aequiseta_{Pristina aequiseta},0.1176,intraspecific
+GQ355374.1 Pristina aequiseta_{Pristina aequiseta},GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},0.1180,interspecific
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},0.1183,interspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},0.1183,interspecific
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},0.1183,interspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},0.1183,interspecific
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},GQ355374.1 Pristina aequiseta_{Pristina aequiseta},0.1183,intraspecific
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1188,unidentified
+AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},GQ355374.1 Pristina aequiseta_{Pristina aequiseta},0.1193,intraspecific
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},0.1206,interspecific
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},0.1219,interspecific
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},0.1220,interspecific
+AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1221,unidentified
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},0.1224,interspecific
+AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},0.1237,interspecific
+AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},0.1237,interspecific
+AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},0.1237,interspecific
+AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},0.1237,interspecific
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},0.1237,interspecific
+AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},0.1248,interspecific
+AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1250,unidentified
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},0.1254,interspecific
+AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},0.1254,interspecific
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},0.1254,interspecific
+AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},0.1254,interspecific
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},0.1254,interspecific
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},0.1254,interspecific
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},0.1254,interspecific
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},0.1254,interspecific
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},0.1254,interspecific
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},0.1254,interspecific
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},0.1254,interspecific
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},0.1254,interspecific
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1259,unidentified
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},0.1262,interspecific
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},0.1272,interspecific
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},0.1272,interspecific
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},0.1272,interspecific
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},0.1272,interspecific
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},0.1272,interspecific
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},0.1272,interspecific
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},0.1272,interspecific
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},0.1272,interspecific
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1277,unidentified
+MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},0.1290,interspecific
+MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},0.1290,interspecific
+MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},0.1290,interspecific
+MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},0.1290,interspecific
+MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},0.1308,interspecific
+OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},0.1308,interspecific
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},0.1308,interspecific
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},0.1326,interspecific
+GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},0.1329,interspecific
+GQ355374.1 Pristina aequiseta_{Pristina aequiseta},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1344,unidentified
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1367,unidentified
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1367,unidentified
+MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1367,unidentified
+MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1367,unidentified
+MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1367,unidentified
+MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1367,unidentified
+AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},0.1368,interspecific
+MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},0.1372,interspecific
+MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},0.1372,interspecific
+MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},0.1372,interspecific
+MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},0.1372,interspecific
+AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1372,unidentified
+GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1384,unidentified
+MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1385,unidentified
+OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1385,unidentified
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},0.1390,interspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},0.1390,interspecific
+MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},0.1390,interspecific
+OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},0.1390,interspecific
+AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,0.1406,unidentified
+AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},0.1431,interspecific
+GQ355374.1 Pristina aequiseta_{Pristina aequiseta},AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},0.1466,interspecific
+AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},0.1512,interspecific
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},0.1541,interspecific
+AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1558,interspecific
+AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1588,interspecific
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1604,interspecific
+AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1622,interspecific
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},0.1625,interspecific
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1631,interspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1631,interspecific
+AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1636,intraspecific
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},0.1643,interspecific
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1649,interspecific
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1649,interspecific
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1649,interspecific
+AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1667,interspecific
+AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1667,interspecific
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1667,interspecific
+KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1679,unidentified
+GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1708,interspecific
+GQ355374.1 Pristina aequiseta_{Pristina aequiseta},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1716,interspecific
+KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.1718,unidentified
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1720,interspecific
+GQ355374.1 Pristina aequiseta_{Pristina aequiseta},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1732,interspecific
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1738,interspecific
+MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1738,interspecific
+MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1738,interspecific
+MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1738,interspecific
+MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1738,interspecific
+MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1756,interspecific
+MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1756,interspecific
+MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1756,interspecific
+MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1756,interspecific
+MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1756,interspecific
+OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1756,interspecific
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.1761,unidentified
+AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1763,interspecific
+KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1771,unidentified
+MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1774,interspecific
+OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1774,interspecific
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1776,interspecific
+GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.1778,unidentified
+GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1787,interspecific
+AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.1792,unidentified
+AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.1797,unidentified
+AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.1827,unidentified
+AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},LT904769.1 Pristina jenkinae_{Pristina jenkinae},0.1840,interspecific
+AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.1844,unidentified
+GQ355374.1 Pristina aequiseta_{Pristina aequiseta},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.1871,unidentified
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.1892,unidentified
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.1892,unidentified
+LT904769.1 Pristina jenkinae_{Pristina jenkinae},MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},0.1900,interspecific
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.1950,unidentified
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.1969,unidentified
+MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.1974,unidentified
+LT904769.1 Pristina jenkinae_{Pristina jenkinae},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.2055,unidentified
+MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.2085,unidentified
+MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.2085,unidentified
+MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.2085,unidentified
+MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.2085,unidentified
+MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.2104,unidentified
+OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,0.2104,unidentified
+MK249368.1 Pristina aequiseta Pristinaaequiseta9_{Pristina aequiseta},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3459,unidentified
+MK249366.1 Pristina aequiseta Pristinaaequiseta7_{Pristina aequiseta},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3459,unidentified
+MW021273.1 Pristina sp. WAM NAIDP001 WAMV9284,MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3472,unidentified
+GQ355374.1 Pristina aequiseta_{Pristina aequiseta},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3480,unidentified
+KY633387.1 Pristina sp. PDW-2017 SMNH153230 Australia,MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3484,unidentified
+LT904769.1 Pristina jenkinae_{Pristina jenkinae},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3505,unidentified
+AF534852.1 Pristina aequiseta PRIaecm_{Pristina aequiseta},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3520,unidentified
+AF534851.1 Pristina aequiseta PRIaefd_{Pristina aequiseta},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3526,unidentified
+MK249364.1 Pristina foreli Pristinaforeli5_{Pristina foreli},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3548,unidentified
+OL374056.1 Pristina foreli voucher PF1_{Pristina foreli},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3548,unidentified
+AF534853.1 Pristina leidyi PRIlecbc_{Pristina leidyi},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3551,unidentified
+MK249363.1 Pristina foreli Pristinaforeli4_{Pristina foreli},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3566,unidentified
+MK249362.1 Pristina foreli Pristinaforeli3_{Pristina foreli},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3566,unidentified
+MK249361.1 Pristina foreli Pristinaforeli2_{Pristina foreli},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3566,unidentified
+MK249360.1 Pristina foreli Pristinaforeli1_{Pristina foreli},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3566,unidentified
+GU902108.1 Pristina longiseta CE1588_{Pristina longiseta},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3579,unidentified
+MK249367.1 Pristina aequiseta Pristinaaequiseta8_{Pristina aequiseta},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3584,unidentified
+AF534854.1 Pristina longiseta PRIloge_{Pristina longiseta},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3598,unidentified
+MK249365.1 Pristina aequiseta Pristinaaequiseta6_{Pristina aequiseta},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3602,unidentified
+MK645548.1 Pristina leidyi SR687-4_{Pristina leidyi},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3629,unidentified
+AF534855.1 Pristina osborni PRIoscm_{Pristina osborni},MW021259.1 Pristina sp. WAM NAIDP001 WAMC74183,0.3632,unidentified

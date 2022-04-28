@@ -1,0 +1,137 @@
+﻿Species 1,Species 2,Dist,type
+MF544417 Dero digitata ON13-C0117-0001_{Dero digitata},AF534836 Dero digitata DERdihr_{Dero digitata},0.0000,intraspecific
+MF544417 Dero digitata ON13-C0117-0001_{Dero digitata},AF534835 Dero digitata DERdifd_{Dero digitata},0.0000,intraspecific
+AF534836 Dero digitata DERdihr_{Dero digitata},AF534835 Dero digitata DERdifd_{Dero digitata},0.0000,intraspecific
+KY633397 Dero digitata Sweden_{Dero digitata},GQ355368 Dero sp. 1 AEB-2009,0.0000,unidentified
+OL375209 Dero dorsalis DD_{Dero dorsalis},KY633388 Dero furcata SMNH153226 Taiwan_{Dero furcata},0.0000,interspecific
+AF534840 Dero sp. Jemmerson Slough-AEB-2002,GQ355368 Dero sp. 1 AEB-2009,0.0016,unidentified
+KP204260 Dero furcata DERfuCBC09_{Dero furcata},AF534837 Dero furcata DERfucvb_{Dero furcata},0.0047,intraspecific
+KY633412 Dero vaga SMNH83595 USA_{Dero vaga},AF534839 Dero vaga DERvatuc_{Dero vaga},0.0049,intraspecific
+KY633397 Dero digitata Sweden_{Dero digitata},AF534840 Dero sp. Jemmerson Slough-AEB-2002,0.0063,unidentified
+KY633385 Dero borellii SMNH149694 United Kingdom_{Dero borellii},KP204260 Dero furcata DERfuCBC09_{Dero furcata},0.0091,interspecific
+KY633385 Dero borellii SMNH149694 United Kingdom_{Dero borellii},AF534837 Dero furcata DERfucvb_{Dero furcata},0.0140,interspecific
+MF544417 Dero digitata ON13-C0117-0001_{Dero digitata},GQ355368 Dero sp. 1 AEB-2009,0.0362,unidentified
+AF534835 Dero digitata DERdifd_{Dero digitata},GQ355368 Dero sp. 1 AEB-2009,0.0362,unidentified
+AF534836 Dero digitata DERdihr_{Dero digitata},GQ355368 Dero sp. 1 AEB-2009,0.0362,unidentified
+AF534835 Dero digitata DERdifd_{Dero digitata},KY633397 Dero digitata Sweden_{Dero digitata},0.0389,intraspecific
+AF534836 Dero digitata DERdihr_{Dero digitata},KY633397 Dero digitata Sweden_{Dero digitata},0.0390,intraspecific
+MF544417 Dero digitata ON13-C0117-0001_{Dero digitata},AF534840 Dero sp. Jemmerson Slough-AEB-2002,0.0392,unidentified
+AF534835 Dero digitata DERdifd_{Dero digitata},AF534840 Dero sp. Jemmerson Slough-AEB-2002,0.0392,unidentified
+AF534836 Dero digitata DERdihr_{Dero digitata},AF534840 Dero sp. Jemmerson Slough-AEB-2002,0.0392,unidentified
+MF544417 Dero digitata ON13-C0117-0001_{Dero digitata},KY633397 Dero digitata Sweden_{Dero digitata},0.0395,intraspecific
+KY633388 Dero furcata SMNH153226 Taiwan_{Dero furcata},KY633385 Dero borellii SMNH149694 United Kingdom_{Dero borellii},0.0671,interspecific
+KY633388 Dero furcata SMNH153226 Taiwan_{Dero furcata},KP204260 Dero furcata DERfuCBC09_{Dero furcata},0.0671,intraspecific
+OL375209 Dero dorsalis DD_{Dero dorsalis},KY633385 Dero borellii SMNH149694 United Kingdom_{Dero borellii},0.0672,interspecific
+OL375209 Dero dorsalis DD_{Dero dorsalis},KP204260 Dero furcata DERfuCBC09_{Dero furcata},0.0672,interspecific
+OL375209 Dero dorsalis DD_{Dero dorsalis},AF534837 Dero furcata DERfucvb_{Dero furcata},0.0703,interspecific
+KY633388 Dero furcata SMNH153226 Taiwan_{Dero furcata},AF534837 Dero furcata DERfucvb_{Dero furcata},0.0703,intraspecific
+MG423030 Dero obtusa BIOUG27693-H09_{Dero obtusa},GQ355368 Dero sp. 1 AEB-2009,0.0708,unidentified
+MG423030 Dero obtusa BIOUG27693-H09_{Dero obtusa},KY633397 Dero digitata Sweden_{Dero digitata},0.0729,interspecific
+MG423030 Dero obtusa BIOUG27693-H09_{Dero obtusa},AF534840 Dero sp. Jemmerson Slough-AEB-2002,0.0737,unidentified
+MG423030 Dero obtusa BIOUG27693-H09_{Dero obtusa},AF534836 Dero digitata DERdihr_{Dero digitata},0.0749,interspecific
+MG423030 Dero obtusa BIOUG27693-H09_{Dero obtusa},MF544417 Dero digitata ON13-C0117-0001_{Dero digitata},0.0760,interspecific
+MG423030 Dero obtusa BIOUG27693-H09_{Dero obtusa},AF534835 Dero digitata DERdifd_{Dero digitata},0.0763,interspecific
+MG423030 Dero obtusa BIOUG27693-H09_{Dero obtusa},AF054195 Dero digitata_{Dero digitata},0.0995,interspecific
+KY633385 Dero borellii SMNH149694 United Kingdom_{Dero borellii},KY633389 Dero superterrenus SMNH149695 USA_{Dero superterrenus},0.1162,interspecific
+KP204260 Dero furcata DERfuCBC09_{Dero furcata},KY633389 Dero superterrenus SMNH149695 USA_{Dero superterrenus},0.1178,interspecific
+AF534837 Dero furcata DERfucvb_{Dero furcata},KY633389 Dero superterrenus SMNH149695 USA_{Dero superterrenus},0.1178,interspecific
+MF544417 Dero digitata ON13-C0117-0001_{Dero digitata},KP204260 Dero furcata DERfuCBC09_{Dero furcata},0.1201,interspecific
+AF534840 Dero sp. Jemmerson Slough-AEB-2002,KY633412 Dero vaga SMNH83595 USA_{Dero vaga},0.1207,unidentified
+AF534840 Dero sp. Jemmerson Slough-AEB-2002,KP204260 Dero furcata DERfuCBC09_{Dero furcata},0.1207,unidentified
+GQ355368 Dero sp. 1 AEB-2009,KY633412 Dero vaga SMNH83595 USA_{Dero vaga},0.1211,unidentified
+AF534835 Dero digitata DERdifd_{Dero digitata},KP204260 Dero furcata DERfuCBC09_{Dero furcata},0.1215,interspecific
+AF534836 Dero digitata DERdihr_{Dero digitata},KP204260 Dero furcata DERfuCBC09_{Dero furcata},0.1217,interspecific
+AF534840 Dero sp. Jemmerson Slough-AEB-2002,KY633385 Dero borellii SMNH149694 United Kingdom_{Dero borellii},0.1238,unidentified
+GQ355368 Dero sp. 1 AEB-2009,KP204260 Dero furcata DERfuCBC09_{Dero furcata},0.1242,unidentified
+AF534840 Dero sp. Jemmerson Slough-AEB-2002,AF054195 Dero digitata_{Dero digitata},0.1248,unidentified
+GQ355368 Dero sp. 1 AEB-2009,AF054195 Dero digitata_{Dero digitata},0.1248,unidentified
+KY633397 Dero digitata Sweden_{Dero digitata},KY633412 Dero vaga SMNH83595 USA_{Dero vaga},0.1248,interspecific
+AF534840 Dero sp. Jemmerson Slough-AEB-2002,AF534837 Dero furcata DERfucvb_{Dero furcata},0.1254,unidentified
+GQ355368 Dero sp. 1 AEB-2009,AF534839 Dero vaga DERvatuc_{Dero vaga},0.1258,unidentified
+KY633397 Dero digitata Sweden_{Dero digitata},KP204260 Dero furcata DERfuCBC09_{Dero furcata},0.1261,interspecific
+MF544417 Dero digitata ON13-C0117-0001_{Dero digitata},AF534837 Dero furcata DERfucvb_{Dero furcata},0.1262,interspecific
+AF534835 Dero digitata DERdifd_{Dero digitata},AF534837 Dero furcata DERfucvb_{Dero furcata},0.1262,interspecific
+MF544417 Dero digitata ON13-C0117-0001_{Dero digitata},KY633385 Dero borellii SMNH149694 United Kingdom_{Dero borellii},0.1263,interspecific
+AF534836 Dero digitata DERdihr_{Dero digitata},AF534837 Dero furcata DERfucvb_{Dero furcata},0.1264,interspecific
+MG423030 Dero obtusa BIOUG27693-H09_{Dero obtusa},KY633412 Dero vaga SMNH83595 USA_{Dero vaga},0.1264,interspecific
+AF534840 Dero sp. Jemmerson Slough-AEB-2002,AF534839 Dero vaga DERvatuc_{Dero vaga},0.1270,unidentified
+GQ355368 Dero sp. 1 AEB-2009,KY633385 Dero borellii SMNH149694 United Kingdom_{Dero borellii},0.1274,unidentified
+MF544417 Dero digitata ON13-C0117-0001_{Dero digitata},AF054195 Dero digitata_{Dero digitata},0.1274,intraspecific
+AF534836 Dero digitata DERdihr_{Dero digitata},AF054195 Dero digitata_{Dero digitata},0.1274,intraspecific
+AF534835 Dero digitata DERdifd_{Dero digitata},AF054195 Dero digitata_{Dero digitata},0.1274,intraspecific
+KY633397 Dero digitata Sweden_{Dero digitata},AF054195 Dero digitata_{Dero digitata},0.1274,intraspecific
+MG423030 Dero obtusa BIOUG27693-H09_{Dero obtusa},KP204260 Dero furcata DERfuCBC09_{Dero furcata},0.1277,interspecific
+AF534835 Dero digitata DERdifd_{Dero digitata},KY633385 Dero borellii SMNH149694 United Kingdom_{Dero borellii},0.1277,interspecific
+MG423030 Dero obtusa BIOUG27693-H09_{Dero obtusa},KY633388 Dero furcata SMNH153226 Taiwan_{Dero furcata},0.1279,interspecific
+AF534836 Dero digitata DERdihr_{Dero digitata},KY633385 Dero borellii SMNH149694 United Kingdom_{Dero borellii},0.1279,interspecific
+MF544417 Dero digitata ON13-C0117-0001_{Dero digitata},KY633412 Dero vaga SMNH83595 USA_{Dero vaga},0.1280,interspecific
+MG423030 Dero obtusa BIOUG27693-H09_{Dero obtusa},OL375209 Dero dorsalis DD_{Dero dorsalis},0.1281,interspecific
+AF534840 Dero sp. Jemmerson Slough-AEB-2002,OL375209 Dero dorsalis DD_{Dero dorsalis},0.1286,unidentified
+AF534840 Dero sp. Jemmerson Slough-AEB-2002,KY633388 Dero furcata SMNH153226 Taiwan_{Dero furcata},0.1286,unidentified
+GQ355368 Dero sp. 1 AEB-2009,AF534837 Dero furcata DERfucvb_{Dero furcata},0.1289,unidentified
+GQ355368 Dero sp. 1 AEB-2009,OL375209 Dero dorsalis DD_{Dero dorsalis},0.1290,unidentified
+GQ355368 Dero sp. 1 AEB-2009,KY633388 Dero furcata SMNH153226 Taiwan_{Dero furcata},0.1290,unidentified
+KY633397 Dero digitata Sweden_{Dero digitata},AF534839 Dero vaga DERvatuc_{Dero vaga},0.1293,interspecific
+MG423030 Dero obtusa BIOUG27693-H09_{Dero obtusa},KY633385 Dero borellii SMNH149694 United Kingdom_{Dero borellii},0.1294,interspecific
+KY633397 Dero digitata Sweden_{Dero digitata},KY633385 Dero borellii SMNH149694 United Kingdom_{Dero borellii},0.1294,interspecific
+MF544417 Dero digitata ON13-C0117-0001_{Dero digitata},KY633388 Dero furcata SMNH153226 Taiwan_{Dero furcata},0.1295,interspecific
+AF534836 Dero digitata DERdihr_{Dero digitata},OL375209 Dero dorsalis DD_{Dero dorsalis},0.1296,interspecific
+AF534836 Dero digitata DERdihr_{Dero digitata},KY633388 Dero furcata SMNH153226 Taiwan_{Dero furcata},0.1296,interspecific
+MF544417 Dero digitata ON13-C0117-0001_{Dero digitata},OL375209 Dero dorsalis DD_{Dero dorsalis},0.1297,interspecific
+AF534835 Dero digitata DERdifd_{Dero digitata},KY633412 Dero vaga SMNH83595 USA_{Dero vaga},0.1297,interspecific
+AF534836 Dero digitata DERdihr_{Dero digitata},KY633412 Dero vaga SMNH83595 USA_{Dero vaga},0.1299,interspecific
+KY633397 Dero digitata Sweden_{Dero digitata},AF534837 Dero furcata DERfucvb_{Dero furcata},0.1308,interspecific
+MF544417 Dero digitata ON13-C0117-0001_{Dero digitata},AF534839 Dero vaga DERvatuc_{Dero vaga},0.1308,interspecific
+AF534835 Dero digitata DERdifd_{Dero digitata},AF534839 Dero vaga DERvatuc_{Dero vaga},0.1308,interspecific
+AF534835 Dero digitata DERdifd_{Dero digitata},OL375209 Dero dorsalis DD_{Dero dorsalis},0.1310,interspecific
+AF534835 Dero digitata DERdifd_{Dero digitata},KY633388 Dero furcata SMNH153226 Taiwan_{Dero furcata},0.1310,interspecific
+AF534836 Dero digitata DERdihr_{Dero digitata},AF534839 Dero vaga DERvatuc_{Dero vaga},0.1310,interspecific
+KY633397 Dero digitata Sweden_{Dero digitata},KY633388 Dero furcata SMNH153226 Taiwan_{Dero furcata},0.1310,interspecific
+KY633397 Dero digitata Sweden_{Dero digitata},OL375209 Dero dorsalis DD_{Dero dorsalis},0.1313,interspecific
+AF534840 Dero sp. Jemmerson Slough-AEB-2002,KY633389 Dero superterrenus SMNH149695 USA_{Dero superterrenus},0.1314,unidentified
+GQ355368 Dero sp. 1 AEB-2009,KY633389 Dero superterrenus SMNH149695 USA_{Dero superterrenus},0.1314,unidentified
+OL375209 Dero dorsalis DD_{Dero dorsalis},KY633389 Dero superterrenus SMNH149695 USA_{Dero superterrenus},0.1321,interspecific
+KY633388 Dero furcata SMNH153226 Taiwan_{Dero furcata},KY633389 Dero superterrenus SMNH149695 USA_{Dero superterrenus},0.1321,interspecific
+KY633397 Dero digitata Sweden_{Dero digitata},KY633389 Dero superterrenus SMNH149695 USA_{Dero superterrenus},0.1322,interspecific
+MG423030 Dero obtusa BIOUG27693-H09_{Dero obtusa},AF534837 Dero furcata DERfucvb_{Dero furcata},0.1324,interspecific
+MG423030 Dero obtusa BIOUG27693-H09_{Dero obtusa},AF534839 Dero vaga DERvatuc_{Dero vaga},0.1324,interspecific
+KY633412 Dero vaga SMNH83595 USA_{Dero vaga},MK302407 Dero indica_{Dero indica},0.1342,interspecific
+AF054195 Dero digitata_{Dero digitata},KY633412 Dero vaga SMNH83595 USA_{Dero vaga},0.1344,interspecific
+AF054195 Dero digitata_{Dero digitata},AF534839 Dero vaga DERvatuc_{Dero vaga},0.1361,interspecific
+GQ355368 Dero sp. 1 AEB-2009,MK302407 Dero indica_{Dero indica},0.1363,unidentified
+AF534840 Dero sp. Jemmerson Slough-AEB-2002,MK302407 Dero indica_{Dero indica},0.1366,unidentified
+MG423030 Dero obtusa BIOUG27693-H09_{Dero obtusa},KY633389 Dero superterrenus SMNH149695 USA_{Dero superterrenus},0.1369,interspecific
+KY633397 Dero digitata Sweden_{Dero digitata},MK302407 Dero indica_{Dero indica},0.1375,interspecific
+KY633389 Dero superterrenus SMNH149695 USA_{Dero superterrenus},AF534839 Dero vaga DERvatuc_{Dero vaga},0.1385,interspecific
+MG423030 Dero obtusa BIOUG27693-H09_{Dero obtusa},MK302407 Dero indica_{Dero indica},0.1396,interspecific
+AF534839 Dero vaga DERvatuc_{Dero vaga},MK302407 Dero indica_{Dero indica},0.1396,interspecific
+KP204260 Dero furcata DERfuCBC09_{Dero furcata},KY633412 Dero vaga SMNH83595 USA_{Dero vaga},0.1408,interspecific
+KY633389 Dero superterrenus SMNH149695 USA_{Dero superterrenus},KY633412 Dero vaga SMNH83595 USA_{Dero vaga},0.1409,interspecific
+MF544417 Dero digitata ON13-C0117-0001_{Dero digitata},MK302407 Dero indica_{Dero indica},0.1417,interspecific
+AF534836 Dero digitata DERdihr_{Dero digitata},MK302407 Dero indica_{Dero indica},0.1417,interspecific
+AF534835 Dero digitata DERdifd_{Dero digitata},MK302407 Dero indica_{Dero indica},0.1417,interspecific
+MF544417 Dero digitata ON13-C0117-0001_{Dero digitata},KY633389 Dero superterrenus SMNH149695 USA_{Dero superterrenus},0.1433,interspecific
+AF534835 Dero digitata DERdifd_{Dero digitata},KY633389 Dero superterrenus SMNH149695 USA_{Dero superterrenus},0.1433,interspecific
+AF534836 Dero digitata DERdihr_{Dero digitata},KY633389 Dero superterrenus SMNH149695 USA_{Dero superterrenus},0.1435,interspecific
+AF534837 Dero furcata DERfucvb_{Dero furcata},KY633412 Dero vaga SMNH83595 USA_{Dero vaga},0.1445,interspecific
+KP204260 Dero furcata DERfuCBC09_{Dero furcata},AF534839 Dero vaga DERvatuc_{Dero vaga},0.1449,interspecific
+KY633385 Dero borellii SMNH149694 United Kingdom_{Dero borellii},KY633412 Dero vaga SMNH83595 USA_{Dero vaga},0.1474,interspecific
+AF534837 Dero furcata DERfucvb_{Dero furcata},AF534839 Dero vaga DERvatuc_{Dero vaga},0.1480,interspecific
+KY633385 Dero borellii SMNH149694 United Kingdom_{Dero borellii},AF534839 Dero vaga DERvatuc_{Dero vaga},0.1511,interspecific
+KY633388 Dero furcata SMNH153226 Taiwan_{Dero furcata},KY633412 Dero vaga SMNH83595 USA_{Dero vaga},0.1538,interspecific
+OL375209 Dero dorsalis DD_{Dero dorsalis},KY633412 Dero vaga SMNH83595 USA_{Dero vaga},0.1541,interspecific
+KP204260 Dero furcata DERfuCBC09_{Dero furcata},AF054195 Dero digitata_{Dero digitata},0.1571,interspecific
+AF054195 Dero digitata_{Dero digitata},MK302407 Dero indica_{Dero indica},0.1599,interspecific
+KP204260 Dero furcata DERfuCBC09_{Dero furcata},MK302407 Dero indica_{Dero indica},0.1604,interspecific
+OL375209 Dero dorsalis DD_{Dero dorsalis},AF054195 Dero digitata_{Dero digitata},0.1606,interspecific
+KY633388 Dero furcata SMNH153226 Taiwan_{Dero furcata},AF054195 Dero digitata_{Dero digitata},0.1606,interspecific
+AF534837 Dero furcata DERfucvb_{Dero furcata},AF054195 Dero digitata_{Dero digitata},0.1606,interspecific
+OL375209 Dero dorsalis DD_{Dero dorsalis},AF534839 Dero vaga DERvatuc_{Dero vaga},0.1613,interspecific
+KY633388 Dero furcata SMNH153226 Taiwan_{Dero furcata},AF534839 Dero vaga DERvatuc_{Dero vaga},0.1613,interspecific
+KY633385 Dero borellii SMNH149694 United Kingdom_{Dero borellii},AF054195 Dero digitata_{Dero digitata},0.1640,interspecific
+AF534837 Dero furcata DERfucvb_{Dero furcata},MK302407 Dero indica_{Dero indica},0.1646,interspecific
+KY633389 Dero superterrenus SMNH149695 USA_{Dero superterrenus},MK302407 Dero indica_{Dero indica},0.1663,interspecific
+KY633385 Dero borellii SMNH149694 United Kingdom_{Dero borellii},MK302407 Dero indica_{Dero indica},0.1667,interspecific
+KY633389 Dero superterrenus SMNH149695 USA_{Dero superterrenus},AF054195 Dero digitata_{Dero digitata},0.1708,interspecific
+OL375209 Dero dorsalis DD_{Dero dorsalis},MK302407 Dero indica_{Dero indica},0.1789,interspecific
+KY633388 Dero furcata SMNH153226 Taiwan_{Dero furcata},MK302407 Dero indica_{Dero indica},0.1789,interspecific
